@@ -14,7 +14,7 @@ The Kraken X60 is the largest brushless motor sold by West Coast Products. It ha
 - Swerve Module steering motor
 - High inertia linear motion, e.g. elevator
 - High inertia rotational motion, e.g. arm pivot
-- Shooter motors
+- Shooter flywheel motors
 
 **Links:**
 
