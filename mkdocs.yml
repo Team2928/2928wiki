@@ -1,7 +1,8 @@
 site_name: 2928 Wiki
-site_url: https://mydomain.org/mysite
+site_url: https://skweston123.github.io/2928wiki/
 theme:
   name: material
+  logo: assets/logo.png
   palette:
 
     # Palette toggle for light mode
@@ -24,8 +25,8 @@ theme:
     - navigation.expand
     - navigation.indexes
     - navigation.top
-    # - navigation.instant
-    # - navigation.tracking
+    - navigation.instant
+    - navigation.tracking
 
 extra_css:
   - stylesheets/extra.css
