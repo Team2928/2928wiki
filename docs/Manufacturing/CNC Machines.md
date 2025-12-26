@@ -6,7 +6,7 @@
 - Vacuum table for holding down large flat stock
 - Tube cutting jig for rectangular and square aluminum tubing
 
-## Prolight Blue Bench-top Mills
+## Blue Prolight Bench-top Mills
 
 - 6"x11" work area
 - Used for smaller thicker parts with more 3d geometry
