@@ -16,5 +16,7 @@
 ## Resources
 
 - [WCP Fasteners Documentation](https://docs.wcproducts.com/welcome/frc-build-system/hardware-and-tools/fasteners).
+- [Chief Delphi Citrus Circuits Rivet Use](https://www.chiefdelphi.com/t/1678-citrus-circuits-2023-cad-and-code-release/437632/140)
+- [Chief Delphi Rivet Thread](https://www.chiefdelphi.com/t/getting-started-with-rivets/387153/8)
 
 
