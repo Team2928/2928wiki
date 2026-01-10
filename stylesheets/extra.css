@@ -1,0 +1,18 @@
+/* Make section headers in the navigation menu bold and underlined */
+.md-nav__item--section > .md-nav__link {
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 1.2em;
+}
+
+/* Make individual page links in the navigation menu larger */
+.md-nav__link {
+  font-size: 1.1em;
+}
+
+/* Make the site title (2928 Wiki) in the navigation menu larger and underlined */
+.md-nav__title {
+  font-size: 1.4em;
+  font-weight: bold;
+  text-decoration: underline;
+}
