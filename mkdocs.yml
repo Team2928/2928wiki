@@ -39,11 +39,20 @@ nav:
     - Shafts and Axles: Hardware and COTS/Shafts and Axles.md
     - Bearings: Hardware and COTS/Bearings.md
     - Swerve: Hardware and COTS/Swerve.md 
-
   - Power Transmission:
     - Gears: Power Transmission/Gears.md
     - Belts and Pulleys: Power Transmission/Belts and Pulleys.md
     - Chain: Power Transmission/Chain.md
+  - Onshape (CAD):
+    - Intro to Onshape: Onshape (CAD)/Intro to Onshape.md
+    - Document Structure: Onshape (CAD)/Document Structure.md
+    - Block CAD: Onshape (CAD)/Block CAD.md
+    - CAD for Prototypes: Onshape (CAD)/CAD for Prototypes.md
+    - Versioning Best Practices: Onshape (CAD)/Versioning Best Practices.md
+    - Release to Manufacture Workflow: Onshape (CAD)/Release to Manufacture Workflow.md
+  - Fusion (CAM):
+    - Intro to Fusion: Fusion (CAM)/Intro to Fusion.md
+    - CAM Workflow: Fusion (CAM)/CAM Workflow.md
   - Design Standards:
     - Drivetrain: Design Standards/Drivetrain.md
     - Structure: Design Standards/Structure.md
